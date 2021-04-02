@@ -5,11 +5,11 @@
 </br>
 <b>WELCOME</b>
 <br/>
-<img src="welcome.png" width="200">
+<img src="welcome.PNG" width="200">
 </br>
 <b>USER LOGIN </b>
 <br/>
-<img src="userlogin.png" width="200">
+<img src="userlogin.PNG" width="200">
 </br>
 <b>Title, Description, Date</b>
 <br/>
