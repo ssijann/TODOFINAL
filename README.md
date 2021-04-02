@@ -1,5 +1,5 @@
 # TODOFINAL
 <b>TODO APP</b>
 <br/>
-<img src="todogifff.gif" width="200">
+<img src="todogifff.gif" width="500">
 </br>
