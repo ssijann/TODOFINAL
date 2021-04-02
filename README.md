@@ -5,13 +5,13 @@
 </br>
 <b>WELCOME</b>
 <br/>
-<img src="welcome.PNG" width="200">
+<img src="welcome.PNG" width="300">
 </br>
 <b>USER LOGIN </b>
 <br/>
-<img src="userlogin.PNG" width="200">
+<img src="userlogin.PNG" width="300">
 </br>
 <b>Title, Description, Date</b>
 <br/>
-<img src=title,des,date.PNG" width="200">
+<img src=title,des,date.PNG" width="300">
 </br>
