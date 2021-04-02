@@ -1,5 +1,5 @@
 # TODOFINAL
-<b>Scrolling Text Task1</b>
+<b>TODO APP</b>
 <br/>
-<img src="todogifff" width="200">
+<img src="todogifff.gif" width="200">
 </br>
