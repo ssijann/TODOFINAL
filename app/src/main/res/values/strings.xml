@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Todo-List App</string>
+    <string name="Splash_welcome">Welcome To Todo App</string>
+
+    <string name="login_login">User Login Form</string>
+    <string name="login_username">User ID</string>
+    <string name="login_password">Password</string>
+    <string name="login_username_required">Username is required!</string>
+    <string name="login_password_required">Password is required!</string>
+    <string name="login_invalid_login">Invalid username or password!!!</string>
+    <string name="login_signin">Login</string>
+    <string name="login_cancel">Cancel</string>
+    <string name="quit_application">Quit Application?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit_Title">Title</string>
+    <string name="edit_Description">Description</string>
+    <string name="edit_date">Date</string>
+    <string name="edit_priority">Priority</string>
+    <string name="edit_high">High</string>
+    <string name="edit_medium">Medium</string>
+    <string name="edit_low">Low</string>
+    <string name="edit_is_complete">Is Complete</string>
+    <string name="edit_save">Submit</string>
+    <string name="edit_cancel_promt">Are you sure want to cancel edit?</string>
+    <string name="crud_save">Todo Reminder Saved!</string>
+    <string name="crud_update">Todo Reminder Updated!</string>
+    <string name="crud_deletebyid">Todo task is deleted!</string>
+    <string name="crud_deleteall">All todos cleared!</string>
+    <string name="edit_update">Update</string>
+    <string name="title_activity_edit_fragment">EditFragment</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+</resources>

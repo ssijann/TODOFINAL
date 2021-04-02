@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Sijan\\AndroidStudioProjects\\TODO-APP-ASSIGNMENT-FINAL\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sijan\\.gradle\\caches\\transforms-2\\files-2.1\\343294bac463996017104a21c2fa273c\\material-1.1.0-alpha05\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,245,347,461,581,701",
+                        "endColumns": "87,101,101,113,119,119,111",
+                        "endOffsets": "138,240,342,456,576,696,808"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "732,820,922,1024,1138,1258,1378",
+                        "endColumns": "87,101,101,113,119,119,111",
+                        "endOffsets": "815,917,1019,1133,1253,1373,1485"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Sijan\\.gradle\\caches\\transforms-2\\files-2.1\\9f7e7a548ad00e2e3c3268a409525997\\appcompat-1.1.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,29",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,170,254,338,434,536,638,2209",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "165,249,333,429,531,633,727,2293"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Sijan\\AndroidStudioProjects\\TODO-APP-ASSIGNMENT-FINAL\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "816"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1490",
+                        "endLines": "28",
+                        "endColumns": "12",
+                        "endOffsets": "2204"
+                    }
+                }
+            ]
+        }
+    ]
+}
