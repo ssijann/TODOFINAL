@@ -40,7 +40,7 @@
 ![TodolistAllDelete](https://user-images.githubusercontent.com/50660072/113511482-b67d9200-957f-11eb-9bfb-483b3d932d89.gif)
 <b>USERLOGOUT</b>
 <br/>
-![userlogin](https://user-images.githubusercontent.com/50660072/113511499-d1500680-957f-11eb-9907-cbcfb388ea4b.gif)
+![userlogout](https://user-images.githubusercontent.com/50660072/113511545-fba1c400-957f-11eb-8273-69523580be31.gif)
 
 
 
